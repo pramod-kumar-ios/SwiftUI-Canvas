@@ -26,6 +26,7 @@ struct SwiftUI_CanvasApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            // Pramod
         }
         .modelContainer(sharedModelContainer)
     }
