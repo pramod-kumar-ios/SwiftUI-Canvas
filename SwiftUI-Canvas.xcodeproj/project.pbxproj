@@ -8,6 +8,8 @@
 
 /* Begin PBXFileReference section */
 		A765E9092EF45B4400C307C9 /* SwiftUI-Canvas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Canvas.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A7A1724A2EF58641001C52DE /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		A7A1724B2EF58641001C52DE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +34,8 @@
 		A765E9002EF45B4400C307C9 = {
 			isa = PBXGroup;
 			children = (
+				A7A1724A2EF58641001C52DE /* LICENSE */,
+				A7A1724B2EF58641001C52DE /* README.md */,
 				A765E90B2EF45B4400C307C9 /* SwiftUI-Canvas */,
 				A765E90A2EF45B4400C307C9 /* Products */,
 			);
