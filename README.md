@@ -40,7 +40,7 @@ All animations are **modular, reusable, and easy to integrate** into any SwiftUI
 A smooth, state-driven **morphing button animation** that transitions between multiple states using SwiftUI spring animations and visual feedback.
 
 <p>
-  <img src="SwiftUI-Canvas/GIFs/MorphingButton.gif" width="500"/>
+  <img src="SwiftUI-Canvas/GIFs/MorphingButton.gif"/>
 </p>
 
 🔗 **[View Code](https://github.com/pramod-kumar-ios/SwiftUI-Canvas/tree/develop/SwiftUI-Canvas/Code/Animations/MorphingButton)**
