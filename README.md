@@ -21,10 +21,10 @@ If you enjoy these animations or learn something new, feel free to ⭐️ the re
 
 ## 🔗 Connect With Me
 
-- 📸 **Instagram:** https://instagram.com/pramod.kumar.ios  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/pramod-kumar-ios  
-- ✍️ **Medium (Apple Community):** https://medium.com/applecommunity  
-- 🌐 **Portfolio:** https://pramod-kumar.com
+[![Instagram](https://img.shields.io/badge/Instagram-pramod.kumar.ios-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pramod.kumar.ios)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pramod%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-kumar-ios)
+[![Medium](https://img.shields.io/badge/Medium-Apple%20Community-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/applecommunity)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pramod--kumar.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pramod-kumar.com)
 
 ---
 
