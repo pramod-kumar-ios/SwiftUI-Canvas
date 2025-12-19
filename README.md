@@ -37,13 +37,23 @@ All animations are **modular, reusable, and easy to integrate** into any SwiftUI
 
 ### 🔄 Morphing Button
 
-A smooth, state-driven **morphing button animation** that transitions between multiple states using SwiftUI spring animations and visual feedback.
+Button to loader with Success/Fail states with spring animations and visual feedback.
 
 <p>
   <img src="SwiftUI-Canvas/GIFs/MorphingButton.gif"/>
 </p>
 
-🔗 **[View Code](https://github.com/pramod-kumar-ios/SwiftUI-Canvas/tree/develop/SwiftUI-Canvas/Code/Animations/MorphingButton)**
+🔗 **[View Code](https://github.com/pramod-kumar-ios/SwiftUI-Canvas/tree/main/SwiftUI-Canvas/Code/Animations/MorphingButton)**
+
+### 📶 Staggered List
+
+Items slide up with a cascading fade effect when the list appears. 
+
+<p>
+  <img src="SwiftUI-Canvas/GIFs/StaggeredList.gif"/>
+</p>
+
+🔗 **[View Code](https://github.com/pramod-kumar-ios/SwiftUI-Canvas/tree/main/SwiftUI-Canvas/Code/Animations/StaggeredListItem)**
 
 ---
 
