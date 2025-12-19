@@ -27,10 +27,10 @@ class HomeViewModel: ObservableObject {
                 destination: AnyView(MorphingButtonUse(title: "Morphing Button"))
             ),
             AnimationItem(
-                name: "Login Demo",
-                description: "Practical use case with form validation",
-                icon: "lock.fill",
-                destination: AnyView(MorphingButtonUse(title: "Login Demo"))
+                name: "Staggered List",
+                description: "Items slide up with a cascading fade effect",
+                icon: "text.alignleft",
+                destination: AnyView(StaggeredListItemUse(title: "Staggered List"))
             )
         ]
     }
