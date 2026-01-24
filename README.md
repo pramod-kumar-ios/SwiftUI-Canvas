@@ -1,21 +1,26 @@
 # 🎨 SwiftUI Canvas
 
-**Animations created with SwiftUI**  
-*Where code becomes motion.*
+**Production-grade SwiftUI animations**  
+*Where clean code becomes motion.*
 
 ---
 
-Hello there 👋🏻, I’m **Pramod Kumar** — an experienced **iOS Developer and SwiftUI Advocate** with a strong focus on **animations, motion design, and performance-driven UI**.
+Hello there 👋🏻, I’m **Pramod Kumar** — a **Senior iOS Engineer & SwiftUI Advocate (10+ yrs)** focused on **animations, motion design, and performance-driven UI systems**.
 
-**SwiftUI Canvas** is an open-source collection of **high-quality, production-ready SwiftUI animations**.  
-Each animation is carefully crafted to demonstrate **clean state management, smooth transitions, and real-world usability** — not just visual flair.
+**SwiftUI Canvas** is an open-source collection of **high-quality, production-ready SwiftUI animations and interaction patterns**.  
+Each example is carefully crafted to demonstrate:
 
-✨ Built for **learning**, **inspiration**, and **real‑world** production use.
+- ✅ Clean state management  
+- ✅ Performance-safe rendering  
+- ✅ Smooth, system-native transitions  
+- ✅ Real-world usability — not just visual flair  
+
+✨ Built for **learning**, **inspiration**, and **real-world production use**.
 
 > 🎯 **Goal:**  
-> To help iOS developers deeply understand SwiftUI animations and use motion to build delightful, modern app experiences.
+> Help iOS developers deeply understand SwiftUI animations and motion systems — and apply them confidently in scalable, production apps.
 
-If you enjoy these animations or learn something new, feel free to ⭐️ the repository and use these concepts in your own apps.
+If you enjoy these animations or learn something new, feel free to ⭐️ the repository and use these concepts in your own projects.
 
 ---
 
@@ -30,14 +35,14 @@ If you enjoy these animations or learn something new, feel free to ⭐️ the re
 
 ## ✨ Animations
 
-Below is a growing collection of **SwiftUI animations** available in **SwiftUI Canvas**.  
-All animations are **modular, reusable, and easy to integrate** into any SwiftUI project.
+Below is a growing collection of **production-ready SwiftUI animations** available in **SwiftUI Canvas**.  
+All examples are **modular, reusable, and easy to integrate** into real apps.
 
 ---
 
 ### 🔄 Morphing Button
 
-Button to loader with Success/Fail states with spring animations and visual feedback.
+Button → Loader → Success/Failure states with spring animations and tactile visual feedback.
 
 <p>
   <img src="SwiftUI-Canvas/GIFs/MorphingButton.gif"/>
@@ -45,9 +50,11 @@ Button to loader with Success/Fail states with spring animations and visual feed
 
 🔗 **[View Code](https://github.com/pramod-kumar-ios/SwiftUI-Canvas/tree/main/SwiftUI-Canvas/Code/Animations/MorphingButton)**
 
+---
+
 ### 📶 Staggered List
 
-Items slide up with a cascading fade effect when the list appears. 
+List items animate upward with cascading fade transitions on appear.
 
 <p>
   <img src="SwiftUI-Canvas/GIFs/StaggeredList.gif"/>
@@ -57,15 +64,24 @@ Items slide up with a cascading fade effect when the list appears.
 
 ---
 
+## 🧠 Who This Is For
+
+- iOS developers learning SwiftUI animations  
+- Teams prototyping motion systems  
+- Engineers validating UI performance  
+- Portfolio & interview showcases  
+
+---
+
 ## 🌟 Spread the Word
 
-If you liked this project:
+If this project helped you:
 
 - ⭐️ Star the repository  
 - 🔁 Share it with the SwiftUI & iOS developer community  
 - 🧠 Use these animation patterns in your own apps  
 
-Your support motivates me to build and share more ✨
+Your support motivates me to keep building and sharing ✨
 
 ---
 
@@ -76,4 +92,4 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 ---
 
 ### © 2025 Pramod Kumar  
-*SwiftUI Canvas — where code becomes motion.*
+*SwiftUI Canvas — where clean code becomes motion.*
