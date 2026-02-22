@@ -31,6 +31,18 @@ class HomeViewModel: ObservableObject {
                 description: "Items slide up with a cascading fade effect",
                 icon: "text.alignleft",
                 destination: AnyView(StaggeredListItemUse(title: "Staggered List"))
+            ),
+            AnimationItem(
+                name: "Elastic Header",
+                description: "First item stretches and bounces on scroll",
+                icon: "arrow.up.and.down.and.sparkles",
+                destination: AnyView(ElasticListViewUse(title: "Elastic Header"))
+            ),
+            AnimationItem(
+                name: "Expandable FAB",
+                description: "Staggered menu with optional titles and icons",
+                icon: "plus.circle.fill",
+                destination: AnyView(ExpandableFABUse(title: "Expandable FAB"))
             )
         ]
     }
