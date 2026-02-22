@@ -64,6 +64,29 @@ List items animate upward with cascading fade transitions on appear.
 
 ---
 
+### 🎢 Elastic List View
+
+The header image stretches and bounces with a spring effect when the user pulls down on the scroll view.
+
+<p>
+  <img src="SwiftUI-Canvas/GIFs/ElasticListView.gif"/>
+</p>
+
+🔗 **[View Code](https://github.com/pramod-kumar-ios/SwiftUI-Canvas/tree/main/SwiftUI-Canvas/Code/Animations/ElasticListView)**
+
+---
+### 🫧 Expandable FAB
+
+A floating action button that reveals a staggered menu of options. Buttons pop out from behind the main trigger with smooth scaling and trailing-edge alignment.
+
+<p>
+  <img src="SwiftUI-Canvas/GIFs/ExpandableFAB.gif"/>
+</p>
+
+🔗 **[View Code](https://github.com/pramod-kumar-ios/SwiftUI-Canvas/tree/main/SwiftUI-Canvas/Code/Animations/ExpandableFAB)**
+
+---
+
 ## 🧠 Who This Is For
 
 - iOS developers learning SwiftUI animations  
